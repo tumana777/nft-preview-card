@@ -145,3 +145,9 @@ span:hover {
     color: #00FFF8;
     cursor: pointer;
 }
+
+@media (max-width: 375px){
+    .container {
+        width: 90%;
+    }
+}
